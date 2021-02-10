@@ -1,5 +1,6 @@
 ### Whats up! 👋
-I am a fullstack developer, React,React Native, Node and Angular.
+I am a fullstack developer, React,React Native,TypeScrip, Node and Angular.
+ 
 
 👉[Linkedin](https://www.linkedin.com/in/alissonhenri/)
  

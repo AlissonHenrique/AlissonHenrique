@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/AlissonHenrique/blob/master/images/illustration.png" width="300"/>
+<img align="right" src="https://github.com/AlissonHenrique/AlissonHenrique/blob/master/images/illustration.png" width="300"/>
 ##  Whats up! 👋
 
 I'm Alisson Henrique, Software Engineer work with React.Js, React Native and NodeJs.

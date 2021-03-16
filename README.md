@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/AlissonHenrique/AlissonHenrique/blob/master/images/illustration.png" width="300"/>
+<img align="right" src="https://github.com/AlissonHenrique/AlissonHenrique/blob/master/images/illustration.png" width="250"/>
 
 ### Whats up! 👋
 
